@@ -1,2 +1,2 @@
-# promptcome
+# prompt
 Charm of Prompt
